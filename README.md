@@ -4,6 +4,8 @@ OOP project for exam
 
 created by: Filippo Monelli
 
+YouTube video: https://www.youtube.com/watch?v=beqhvWwEEAU&t=12s
+
 ## Basic concepts
 
 Football management for the collection of information through MySQL database.
