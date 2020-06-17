@@ -11,7 +11,7 @@ public class DBManager {
 	public static final String JDBCURLSQLite = "jdbc:sqlite:test.db";
 
 	public static final String JDBCDriverMySQL = "com.mysql.jdbc.Driver";
-	public static final String JDBCURLMySQL = "jdbc:mysql://localhost:3306/FMSDatabase?user=root&password=29199703Monelli!";
+	public static final String JDBCURLMySQL = "jdbc:mysql://localhost:3306/FMSDatabase?user=root&password=##########";
 
 	protected Statement statement;
 	protected Connection connection;
